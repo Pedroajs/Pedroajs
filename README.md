@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Me chamo Pedro Augusto, estudo desenvolvimento web usarei este perfil para expor meus  projetos e estudos👋
 
 <!--
 **Pedroajs/Pedroajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
