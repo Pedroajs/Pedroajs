@@ -1,8 +1,6 @@
-### Olá! Me chamo Pedro Augusto, estudo desenvolvimento web usarei este perfil para expor meus  projetos e estudos👋
+### I'm a jr software engineer at Cora Banking 👋
 
 <!--
 **Pedroajs/Pedroajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning JavaScript, html and CSS
-- 👯 I’m looking to collaborate on front end projects
-- 📫 How to reach me: pedroajs93@gmail.com
+- 🌱 I’m currently learning and working with Kotlin
